@@ -2,7 +2,7 @@
 
 I'm a **Software Developer** passionate about building scalable solutions and learning new technologies. As a self-taught developer, I thrive on curiosity, creativity, and solving challenging problems.
 
-- **Languages**: Python, Go, C, C++
+- **Languages**: Python, C, Java, JavaScript
 - **Frameworks**: Django, Vue.js, Bootstrap
 - **Cloud & Databases**: AWS, MySQL
 
