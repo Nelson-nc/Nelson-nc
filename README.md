@@ -1,16 +1,23 @@
-# Hi there 👋, I'm Nelson Nc
+<!-- Level 3: Add custom code -->
 
-I'm a **Software Developer** passionate about building scalable solutions and learning new technologies. As a self-taught developer, I thrive on curiosity, creativity, and solving challenging problems.
+# 👋 Hi, I'm Nelson!
+👩🏻‍💻 A Self taught Software developer<br/>
+💭 Currently learning about Cybersecurity!<br/>
 
-- **Languages**: Python, C, Java, JavaScript
-- **Frameworks**: Django, Vue.js, Bootstrap
-- **Cloud & Databases**: AWS, MySQL
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Nelson-nc&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-- 🚀 Self-taught programmer always eager to learn and grow
-- 🎮 Gaming enthusiast & problem solver
-- 🛠️ I enjoy coding, building web apps, and exploring new tech
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br/>
 
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/nelson-nmesoma-520b9535a)
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
-Feel free to check out my repositories or reach out for collaboration!
+If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊
