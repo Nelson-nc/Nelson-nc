@@ -1,9 +1,10 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Nelson!
-👩🏻‍💻 A **Software engineer** specializing in building robust backend app and automation.
-<br/>
-💭 Currently learning about Cybersecurity!<br/>
+👩🏻‍💻 a Software Developer passionate about backend development, REST APIs, and automation.<br/>
+🧩 I build with Python, Django, Vue.js, MySQL and more.<br/>
+🌱 Currently learning advanced authentication, API integrations and Cybersecurity.<br/>
+🚀 Open to collaboration on beginner-friendly open-source projects.<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Nelson-nc&theme=radical&hide_border=false&include_all_commits=true&count_private=true) -->
