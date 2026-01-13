@@ -14,7 +14,7 @@ I’m currently learning Tensorflow and CyberSecurity.
 - Pokemon is my favourite anime and game followed by Horizon
 - my hobbies: programming, hacking, gaming, anime
 
-#### My Tech Stack
+#### Some of my Tech Stack are:
 [![Python](https://img.shields.io/badge/Python-696969?logo=python&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-696969?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%23696969.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -23,8 +23,6 @@ I’m currently learning Tensorflow and CyberSecurity.
 [![CSS](https://img.shields.io/badge/CSS-696969?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-696969?logo=javascript&logoColor=fff)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-696969?logo=vuedotjs&logoColor=fff)](#)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-696969?logo=tensorflow&logoColor=white)](#)
-[![Keras](https://img.shields.io/badge/Keras-696969?logo=keras&logoColor=fff)](#)
 
 
 <!--
