@@ -23,6 +23,7 @@ I’m currently learning Tensorflow and CyberSecurity.
 [![CSS](https://img.shields.io/badge/CSS-696969?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-696969?logo=javascript&logoColor=fff)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-696969?logo=vuedotjs&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23696969.svg?logo=cshrp&logoColor=white)](#)
 
 
 <!--
