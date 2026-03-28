@@ -4,10 +4,6 @@ I'm [Nelson nc](https://github.com/Nelson-nc), a software developer.
 
 I'm a really good problem solver.
 
-I’m currently working on [Pokedex AI](https://github.com/Nelson-nc/Pokedex_AI).
-
-I’m currently learning Tensorflow and CyberSecurity.
-
 <br/>
 
 ⚡ Fun Facts:
