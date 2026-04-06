@@ -1,17 +1,15 @@
-## Hi there 👋
+## Hi there 👋 i'm Nelson nc
 
-I'm [Nelson nc](https://github.com/Nelson-nc), a software developer.
+welcome to my GitHub profile, i am a software engineer,
+passionate about building impactful and fun project and continuously learning new technology.
 
-<!-- ⚡ Fun Facts:
-I'm a really good problem solver.
+### About Me
+- 🔭 I’m currently working on my game engine
+- 🌱 I’m currently learning vulkan
+- 👯 I’m looking to collaborate on any topic
+- 📫 How to reach me: nelso15nc@gmail.com or nelson15nme@gmail.com
 
-<br/>
-
-- Pokemon is my favourite anime and game followed by Horizon
-- my hobbies: programming, hacking, gaming, anime
--->
-
-### Some of my Tech Stack are:
+### Skills and Tech Stack
 #### Languages
 [![Python](https://img.shields.io/badge/Python-696969?logo=python&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-696969?logo=c&logoColor=white)](#)
@@ -37,19 +35,7 @@ I'm a really good problem solver.
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 -->
 
-
-<!--
-**Nelson-nc/Nelson-nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://github.com/inttter/md-badges
--->
+### connect with me
+- LinkedIn www.linkedin.com/in/nelson-nc
+- Email nelso15nc@gmail.com or nelson15nme@gmail.com
+<!--https://github.com/inttter/md-badges-->
