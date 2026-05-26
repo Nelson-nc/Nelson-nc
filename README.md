@@ -17,15 +17,12 @@ passionate about building impactful and fun project and continuously learning ne
 [![HTML](https://img.shields.io/badge/HTML-%23696969.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-696969?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-696969?logo=javascript&logoColor=fff)](#)
-[![PHP](https://img.shields.io/badge/php-%23696969.svg?&logo=php&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23696969.svg?logo=cshrp&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23696969.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/Csharp-696969?logo=csharp&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%23696969.svg?logo=lua&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-696969?logo=latex&logoColor=fff)](#)
 
 #### Framework
 [![Django](https://img.shields.io/badge/Django-%23696969.svg?logo=django&logoColor=white)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-%23696969.svg?logo=laravel&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-696969?logo=vuedotjs&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%23696969.svg?logo=react&logoColor=%23fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-696969?logo=mysql&logoColor=fff)](#)
