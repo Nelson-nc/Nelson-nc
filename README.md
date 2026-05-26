@@ -17,7 +17,7 @@ passionate about building impactful and fun project and continuously learning ne
 [![HTML](https://img.shields.io/badge/HTML-%23696969.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-696969?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-696969?logo=javascript&logoColor=fff)](#)
-[![C#](https://img.shields.io/badge/Csharp-696969?logo=csharp&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C#-696969?logo=csharp&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%23696969.svg?logo=lua&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-696969?logo=latex&logoColor=fff)](#)
 
