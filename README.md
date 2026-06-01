@@ -4,8 +4,8 @@ welcome to my GitHub profile, i am a software engineer,
 passionate about building impactful and fun project and continuously learning new technology.
 
 ### About Me
-- 🔭 I’m currently working on my game engine
-- 🌱 I’m currently learning vulkan
+- 🔭 I’m currently working improving my skills and building fun projects
+- 🌱 I’m currently learning OpenGl
 - 👯 I’m looking to collaborate on any topic
 - 📫 How to reach me: nelso15nc@gmail.com or nelson15nme@gmail.com
 
