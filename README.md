@@ -4,10 +4,10 @@ welcome to my GitHub profile, i am a software engineer,
 passionate about building impactful and fun project and continuously learning new technology.
 
 ### About Me
-- 🔭 I’m currently working improving my skills and building fun projects
-- 🌱 I’m currently learning OpenGl
-- 👯 I’m looking to collaborate on any topic
-- 📫 How to reach me: nelso15nc@gmail.com or nelson15nme@gmail.com
+- I’m currently working improving my skills and building fun projects
+<!-- - I’m currently learning SDL2 OpenGl -->
+- I’m looking to collaborate on any topic
+- How to reach me: nelso15nc@gmail.com or nelson15nme@gmail.com
 
 ### Skills and Tech Stack
 #### Languages
@@ -17,7 +17,7 @@ passionate about building impactful and fun project and continuously learning ne
 [![HTML](https://img.shields.io/badge/HTML-%23696969.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-696969?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-696969?logo=javascript&logoColor=fff)](#)
-[![Lua](https://img.shields.io/badge/Lua-%23696969.svg?logo=lua&logoColor=white)](#)
+<!-- [![Lua](https://img.shields.io/badge/Lua-%23696969.svg?logo=lua&logoColor=white)](#) -->
 [![LaTeX](https://img.shields.io/badge/LaTeX-696969?logo=latex&logoColor=fff)](#)
 
 #### Framework
